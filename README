@@ -1,0 +1,18 @@
+# Movie Ratings and Popularity Analysis
+
+## Project Overview
+This project explores movie ratings, popularity, genres, and audience trends using data analysis techniques in Python.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Key Insights
+- Popular movies tend to receive more audience votes
+- Certain genres consistently achieve higher ratings
+- Data analysis helps identify entertainment trends and viewer preferences
+
+## Dataset
+TMDB Movies Dataset
